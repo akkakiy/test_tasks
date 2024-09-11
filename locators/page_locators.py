@@ -47,11 +47,3 @@ class LocatorsMainPage:
     THANKS = (By.XPATH, "//h2[normalize-space()='Thank you for your order!']")
     # кнопка "Back Home"
     BACK_HOME_BUTTON = (By.XPATH, "//button[@id='back-to-products']")
-
-
-
-
-
-
-
-
